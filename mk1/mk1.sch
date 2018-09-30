@@ -3556,4 +3556,66 @@ F 3 "" H 6650 7450 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	6650 7450 6250 7450
+Text Notes 3850 6400 0    50   ~ 0
+TIM14_CH1
+Text Notes 3850 6600 0    50   ~ 0
+TIM16_CH1
+Text Notes 3850 6700 0    50   ~ 0
+TIM17_CH1
+Text Notes 4300 6600 0    50   ~ 0
+TIM3_CH1
+Text Notes 4300 6700 0    50   ~ 0
+TIM3_CH2
+Text Notes 3850 6800 0    50   ~ 0
+TIM1_CH1
+Text Notes 3850 6900 0    50   ~ 0
+TIM1_CH2
+Text Notes 3850 7000 0    50   ~ 0
+TIM1_CH3
+Text Notes 1000 6000 0    50   ~ 0
+TIM1_CH2N
+Text Notes 1000 6100 0    50   ~ 0
+TIM1_CH3N
+Text Notes 550  6000 0    50   ~ 0
+TIM3_CH3
+Text Notes 550  6100 0    50   ~ 0
+TIM3_CH4
+Text Notes 1000 6400 0    50   ~ 0
+TIM3_CH1
+Text Notes 1000 6500 0    50   ~ 0
+TIM3_CH2
+Text Notes 1000 6600 0    50   ~ 0
+TIM16_CH1N
+Text Notes 1000 6700 0    50   ~ 0
+TIM17_CH1N
+Text Notes 1000 6800 0    50   ~ 0
+TIM16_CH1
+Text Notes 1000 6900 0    50   ~ 0
+TIM17_CH1
+Text Notes 550  7000 0    50   ~ 0
+UART3_TX
+Text Notes 550  7100 0    50   ~ 0
+UART3_RX
+Text Notes 1000 7300 0    50   ~ 0
+TIM1_CH1N
+Text Notes 1000 7400 0    50   ~ 0
+TIM1_CH2N
+Text Notes 1000 7500 0    50   ~ 0
+TIM1_CH3N
+Text Notes 550  7400 0    50   ~ 0
+TIM15_CH1
+Text Notes 550  7500 0    50   ~ 0
+TIM15_CH2
+Text Notes 550  6600 0    50   ~ 0
+UART1_TX
+Text Notes 550  6700 0    50   ~ 0
+UART1_RX
+Text Notes 3850 6200 0    50   ~ 0
+UART2_TX
+Text Notes 3850 6300 0    50   ~ 0
+UART2_RX
+Text Notes 3850 6000 0    50   ~ 0
+UART4_TX
+Text Notes 3850 6100 0    50   ~ 0
+UART4_RX
 $EndSCHEMATC
