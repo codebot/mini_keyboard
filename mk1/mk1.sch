@@ -3618,4 +3618,6 @@ Text Notes 3850 6000 0    50   ~ 0
 UART4_TX
 Text Notes 3850 6100 0    50   ~ 0
 UART4_RX
+Text Label 1750 4550 0    50   ~ 0
+NRST
 $EndSCHEMATC
