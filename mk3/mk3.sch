@@ -63,7 +63,7 @@ COL10
 Text Label 12550 1100 0    50   ~ 0
 COL11
 $Comp
-L Switch:SW_Push S5
+L keyswitch:KAILH_1350 S5
 U 1 1 5BAECD8E
 P 3300 1800
 F 0 "S5" H 3300 2013 50  0000 C CNN
@@ -88,7 +88,7 @@ F 3 "~" V 4450 1800 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L Switch:SW_Push S6
+L keyswitch:KAILH_1350 S6
 U 1 1 5BB21920
 P 4150 1800
 F 0 "S6" H 4150 2013 50  0000 C CNN
@@ -113,7 +113,7 @@ F 3 "~" V 5250 1800 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L Switch:SW_Push S7
+L keyswitch:KAILH_1350 S7
 U 1 1 5BB21AEA
 P 4950 1800
 F 0 "S7" H 4950 2013 50  0000 C CNN
@@ -138,7 +138,7 @@ F 3 "~" V 6050 1800 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L Switch:SW_Push S8
+L keyswitch:KAILH_1350 S8
 U 1 1 5BB21CDD
 P 5750 1800
 F 0 "S8" H 5750 2013 50  0000 C CNN
@@ -163,7 +163,7 @@ F 3 "~" V 6850 1800 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L Switch:SW_Push S9
+L keyswitch:KAILH_1350 S9
 U 1 1 5BB22040
 P 6550 1800
 F 0 "S9" H 6550 2013 50  0000 C CNN
@@ -188,7 +188,7 @@ F 3 "~" V 7650 1800 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L Switch:SW_Push S10
+L keyswitch:KAILH_1350 S10
 U 1 1 5BB221F8
 P 7350 1800
 F 0 "S10" H 7350 2013 50  0000 C CNN
@@ -213,7 +213,7 @@ F 3 "~" V 8450 1800 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L Switch:SW_Push S11
+L keyswitch:KAILH_1350 S11
 U 1 1 5BB223E7
 P 8150 1800
 F 0 "S11" H 8150 2013 50  0000 C CNN
@@ -238,7 +238,7 @@ F 3 "~" V 9250 1800 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L Switch:SW_Push S12
+L keyswitch:KAILH_1350 S12
 U 1 1 5BB22650
 P 8950 1800
 F 0 "S12" H 8950 2013 50  0000 C CNN
@@ -263,7 +263,7 @@ F 3 "~" V 10050 1800 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L Switch:SW_Push S13
+L keyswitch:KAILH_1350 S13
 U 1 1 5BB2294B
 P 9750 1800
 F 0 "S13" H 9750 2013 50  0000 C CNN
@@ -288,7 +288,7 @@ F 3 "~" V 10850 1800 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L Switch:SW_Push S14
+L keyswitch:KAILH_1350 S14
 U 1 1 5BB22CCD
 P 10550 1800
 F 0 "S14" H 10550 2013 50  0000 C CNN
@@ -313,7 +313,7 @@ F 3 "~" V 11650 1800 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L Switch:SW_Push S15
+L keyswitch:KAILH_1350 S15
 U 1 1 5BB23132
 P 11350 1800
 F 0 "S15" H 11350 2013 50  0000 C CNN
@@ -338,7 +338,7 @@ F 3 "~" V 12450 1800 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L Switch:SW_Push S16
+L keyswitch:KAILH_1350 S16
 U 1 1 5BB235F9
 P 12150 1800
 F 0 "S16" H 12150 2013 50  0000 C CNN
@@ -364,7 +364,7 @@ $EndComp
 Text Label 2000 1950 0    50   ~ 0
 ROW1
 $Comp
-L Switch:SW_Push S17
+L keyswitch:KAILH_1350 S17
 U 1 1 5BB245FB
 P 3300 2300
 F 0 "S17" H 3300 2513 50  0000 C CNN
@@ -378,7 +378,7 @@ Wire Wire Line
 	3100 2300 3100 2450
 Connection ~ 3100 2450
 Wire Wire Line
-	3100 2450 2250 2450
+	3100 2450 2550 2450
 $Comp
 L Device:D_Small_ALT D7
 U 1 1 5BB24605
@@ -391,7 +391,7 @@ F 3 "~" V 4450 2300 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L Switch:SW_Push S18
+L keyswitch:KAILH_1350 S18
 U 1 1 5BB2460B
 P 4150 2300
 F 0 "S18" H 4150 2513 50  0000 C CNN
@@ -416,7 +416,7 @@ F 3 "~" V 5250 2300 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L Switch:SW_Push S19
+L keyswitch:KAILH_1350 S19
 U 1 1 5BB2461B
 P 4950 2300
 F 0 "S19" H 4950 2513 50  0000 C CNN
@@ -441,7 +441,7 @@ F 3 "~" V 6050 2300 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L Switch:SW_Push S20
+L keyswitch:KAILH_1350 S20
 U 1 1 5BB2462B
 P 5750 2300
 F 0 "S20" H 5750 2513 50  0000 C CNN
@@ -466,7 +466,7 @@ F 3 "~" V 6850 2300 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L Switch:SW_Push S21
+L keyswitch:KAILH_1350 S21
 U 1 1 5BB2463B
 P 6550 2300
 F 0 "S21" H 6550 2513 50  0000 C CNN
@@ -491,7 +491,7 @@ F 3 "~" V 7650 2300 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L Switch:SW_Push S22
+L keyswitch:KAILH_1350 S22
 U 1 1 5BB2464B
 P 7350 2300
 F 0 "S22" H 7350 2513 50  0000 C CNN
@@ -516,7 +516,7 @@ F 3 "~" V 8450 2300 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L Switch:SW_Push U33
+L keyswitch:KAILH_1350 U33
 U 1 1 5BB2465B
 P 8150 2300
 F 0 "U33" H 8150 2513 50  0000 C CNN
@@ -541,7 +541,7 @@ F 3 "~" V 9250 2300 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L Switch:SW_Push U38
+L keyswitch:KAILH_1350 U38
 U 1 1 5BB2466B
 P 8950 2300
 F 0 "U38" H 8950 2513 50  0000 C CNN
@@ -566,7 +566,7 @@ F 3 "~" V 10050 2300 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L Switch:SW_Push U43
+L keyswitch:KAILH_1350 U43
 U 1 1 5BB2467B
 P 9750 2300
 F 0 "U43" H 9750 2513 50  0000 C CNN
@@ -591,7 +591,7 @@ F 3 "~" V 10850 2300 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L Switch:SW_Push U48
+L keyswitch:KAILH_1350 U48
 U 1 1 5BB2468B
 P 10550 2300
 F 0 "U48" H 10550 2513 50  0000 C CNN
@@ -616,7 +616,7 @@ F 3 "~" V 11650 2300 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L Switch:SW_Push U53
+L keyswitch:KAILH_1350 U53
 U 1 1 5BB2469B
 P 11350 2300
 F 0 "U53" H 11350 2513 50  0000 C CNN
@@ -641,7 +641,7 @@ F 3 "~" V 12450 2300 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L Switch:SW_Push U58
+L keyswitch:KAILH_1350 U58
 U 1 1 5BB246AB
 P 12150 2300
 F 0 "U58" H 12150 2513 50  0000 C CNN
@@ -667,7 +667,7 @@ $EndComp
 Text Label 2000 2450 0    50   ~ 0
 ROW2
 $Comp
-L Switch:SW_Push U4
+L keyswitch:KAILH_1350 U4
 U 1 1 5BB26212
 P 3300 2800
 F 0 "U4" H 3300 3013 50  0000 C CNN
@@ -681,7 +681,7 @@ Wire Wire Line
 	3100 2800 3100 2950
 Connection ~ 3100 2950
 Wire Wire Line
-	3100 2950 2250 2950
+	3100 2950 2550 2950
 $Comp
 L Device:D_Small_ALT D8
 U 1 1 5BB2621C
@@ -694,7 +694,7 @@ F 3 "~" V 4450 2800 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L Switch:SW_Push U9
+L keyswitch:KAILH_1350 U9
 U 1 1 5BB26222
 P 4150 2800
 F 0 "U9" H 4150 3013 50  0000 C CNN
@@ -719,7 +719,7 @@ F 3 "~" V 5250 2800 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L Switch:SW_Push U14
+L keyswitch:KAILH_1350 U14
 U 1 1 5BB26232
 P 4950 2800
 F 0 "U14" H 4950 3013 50  0000 C CNN
@@ -744,7 +744,7 @@ F 3 "~" V 6050 2800 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L Switch:SW_Push U19
+L keyswitch:KAILH_1350 U19
 U 1 1 5BB26242
 P 5750 2800
 F 0 "U19" H 5750 3013 50  0000 C CNN
@@ -769,7 +769,7 @@ F 3 "~" V 6850 2800 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L Switch:SW_Push U24
+L keyswitch:KAILH_1350 U24
 U 1 1 5BB26252
 P 6550 2800
 F 0 "U24" H 6550 3013 50  0000 C CNN
@@ -794,7 +794,7 @@ F 3 "~" V 7650 2800 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L Switch:SW_Push U29
+L keyswitch:KAILH_1350 U29
 U 1 1 5BB26262
 P 7350 2800
 F 0 "U29" H 7350 3013 50  0000 C CNN
@@ -819,7 +819,7 @@ F 3 "~" V 8450 2800 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L Switch:SW_Push U34
+L keyswitch:KAILH_1350 U34
 U 1 1 5BB26272
 P 8150 2800
 F 0 "U34" H 8150 3013 50  0000 C CNN
@@ -844,7 +844,7 @@ F 3 "~" V 9250 2800 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L Switch:SW_Push U39
+L keyswitch:KAILH_1350 U39
 U 1 1 5BB26282
 P 8950 2800
 F 0 "U39" H 8950 3013 50  0000 C CNN
@@ -869,7 +869,7 @@ F 3 "~" V 10050 2800 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L Switch:SW_Push U44
+L keyswitch:KAILH_1350 U44
 U 1 1 5BB26292
 P 9750 2800
 F 0 "U44" H 9750 3013 50  0000 C CNN
@@ -894,7 +894,7 @@ F 3 "~" V 10850 2800 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L Switch:SW_Push U49
+L keyswitch:KAILH_1350 U49
 U 1 1 5BB262A2
 P 10550 2800
 F 0 "U49" H 10550 3013 50  0000 C CNN
@@ -919,7 +919,7 @@ F 3 "~" V 11650 2800 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L Switch:SW_Push U54
+L keyswitch:KAILH_1350 U54
 U 1 1 5BB262B2
 P 11350 2800
 F 0 "U54" H 11350 3013 50  0000 C CNN
@@ -944,7 +944,7 @@ F 3 "~" V 12450 2800 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L Switch:SW_Push U59
+L keyswitch:KAILH_1350 U59
 U 1 1 5BB262C2
 P 12150 2800
 F 0 "U59" H 12150 3013 50  0000 C CNN
@@ -970,7 +970,7 @@ $EndComp
 Text Label 2000 2950 0    50   ~ 0
 ROW3
 $Comp
-L Switch:SW_Push U5
+L keyswitch:KAILH_1350 U5
 U 1 1 5BB262D3
 P 3300 3300
 F 0 "U5" H 3300 3513 50  0000 C CNN
@@ -984,7 +984,7 @@ Wire Wire Line
 	3100 3300 3100 3450
 Connection ~ 3100 3450
 Wire Wire Line
-	3100 3450 2250 3450
+	3100 3450 2550 3450
 $Comp
 L Device:D_Small_ALT D9
 U 1 1 5BB262DD
@@ -997,7 +997,7 @@ F 3 "~" V 4450 3300 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L Switch:SW_Push U10
+L keyswitch:KAILH_1350 U10
 U 1 1 5BB262E3
 P 4150 3300
 F 0 "U10" H 4150 3513 50  0000 C CNN
@@ -1022,7 +1022,7 @@ F 3 "~" V 5250 3300 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L Switch:SW_Push U15
+L keyswitch:KAILH_1350 U15
 U 1 1 5BB262F3
 P 4950 3300
 F 0 "U15" H 4950 3513 50  0000 C CNN
@@ -1047,7 +1047,7 @@ F 3 "~" V 6050 3300 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L Switch:SW_Push U20
+L keyswitch:KAILH_1350 U20
 U 1 1 5BB26303
 P 5750 3300
 F 0 "U20" H 5750 3513 50  0000 C CNN
@@ -1072,7 +1072,7 @@ F 3 "~" V 6850 3300 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L Switch:SW_Push U25
+L keyswitch:KAILH_1350 U25
 U 1 1 5BB26313
 P 6550 3300
 F 0 "U25" H 6550 3513 50  0000 C CNN
@@ -1097,7 +1097,7 @@ F 3 "~" V 7650 3300 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L Switch:SW_Push U30
+L keyswitch:KAILH_1350 U30
 U 1 1 5BB26323
 P 7350 3300
 F 0 "U30" H 7350 3513 50  0000 C CNN
@@ -1122,7 +1122,7 @@ F 3 "~" V 8450 3300 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L Switch:SW_Push U35
+L keyswitch:KAILH_1350 U35
 U 1 1 5BB26333
 P 8150 3300
 F 0 "U35" H 8150 3513 50  0000 C CNN
@@ -1147,7 +1147,7 @@ F 3 "~" V 9250 3300 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L Switch:SW_Push U40
+L keyswitch:KAILH_1350 U40
 U 1 1 5BB26343
 P 8950 3300
 F 0 "U40" H 8950 3513 50  0000 C CNN
@@ -1172,7 +1172,7 @@ F 3 "~" V 10050 3300 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L Switch:SW_Push U45
+L keyswitch:KAILH_1350 U45
 U 1 1 5BB26353
 P 9750 3300
 F 0 "U45" H 9750 3513 50  0000 C CNN
@@ -1197,7 +1197,7 @@ F 3 "~" V 10850 3300 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L Switch:SW_Push U50
+L keyswitch:KAILH_1350 U50
 U 1 1 5BB26363
 P 10550 3300
 F 0 "U50" H 10550 3513 50  0000 C CNN
@@ -1222,7 +1222,7 @@ F 3 "~" V 11650 3300 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L Switch:SW_Push U55
+L keyswitch:KAILH_1350 U55
 U 1 1 5BB26373
 P 11350 3300
 F 0 "U55" H 11350 3513 50  0000 C CNN
@@ -1247,7 +1247,7 @@ F 3 "~" V 12450 3300 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L Switch:SW_Push U60
+L keyswitch:KAILH_1350 U60
 U 1 1 5BB26383
 P 12150 3300
 F 0 "U60" H 12150 3513 50  0000 C CNN
@@ -1273,7 +1273,7 @@ $EndComp
 Text Label 2000 3450 0    50   ~ 0
 ROW4
 $Comp
-L Switch:SW_Push U6
+L keyswitch:KAILH_1350 U6
 U 1 1 5BB2C332
 P 3300 3800
 F 0 "U6" H 3300 4013 50  0000 C CNN
@@ -1287,7 +1287,7 @@ Wire Wire Line
 	3100 3800 3100 3950
 Connection ~ 3100 3950
 Wire Wire Line
-	3100 3950 2250 3950
+	3100 3950 2550 3950
 $Comp
 L Device:D_Small_ALT D10
 U 1 1 5BB2C33C
@@ -1300,7 +1300,7 @@ F 3 "~" V 4450 3800 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L Switch:SW_Push U11
+L keyswitch:KAILH_1350 U11
 U 1 1 5BB2C342
 P 4150 3800
 F 0 "U11" H 4150 4013 50  0000 C CNN
@@ -1325,7 +1325,7 @@ F 3 "~" V 5250 3800 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L Switch:SW_Push U16
+L keyswitch:KAILH_1350 U16
 U 1 1 5BB2C352
 P 4950 3800
 F 0 "U16" H 4950 4013 50  0000 C CNN
@@ -1350,7 +1350,7 @@ F 3 "~" V 6050 3800 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L Switch:SW_Push U21
+L keyswitch:KAILH_1350 U21
 U 1 1 5BB2C362
 P 5750 3800
 F 0 "U21" H 5750 4013 50  0000 C CNN
@@ -1375,7 +1375,7 @@ F 3 "~" V 6850 3800 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L Switch:SW_Push U26
+L keyswitch:KAILH_1350 U26
 U 1 1 5BB2C372
 P 6550 3800
 F 0 "U26" H 6550 4013 50  0000 C CNN
@@ -1400,7 +1400,7 @@ F 3 "~" V 7650 3800 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L Switch:SW_Push U31
+L keyswitch:KAILH_1350 U31
 U 1 1 5BB2C382
 P 7350 3800
 F 0 "U31" H 7350 4013 50  0000 C CNN
@@ -1425,7 +1425,7 @@ F 3 "~" V 9250 3800 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L Switch:SW_Push U36
+L keyswitch:KAILH_1350 U36
 U 1 1 5BB2C392
 P 8950 3800
 F 0 "U36" H 8950 4013 50  0000 C CNN
@@ -1449,7 +1449,7 @@ F 3 "~" V 10850 3800 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L Switch:SW_Push U51
+L keyswitch:KAILH_1350 U51
 U 1 1 5BB2C3C2
 P 10550 3800
 F 0 "U51" H 10550 4013 50  0000 C CNN
@@ -1474,7 +1474,7 @@ F 3 "~" V 11650 3800 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L Switch:SW_Push U56
+L keyswitch:KAILH_1350 U56
 U 1 1 5BB2C3D2
 P 11350 3800
 F 0 "U56" H 11350 4013 50  0000 C CNN
@@ -1499,7 +1499,7 @@ F 3 "~" V 12450 3800 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L Switch:SW_Push U61
+L keyswitch:KAILH_1350 U61
 U 1 1 5BB2C3E2
 P 12150 3800
 F 0 "U61" H 12150 4013 50  0000 C CNN
@@ -1813,7 +1813,7 @@ Wire Wire Line
 Text Label 7000 5950 0    50   ~ 0
 LED3
 $Comp
-L Switch:SW_Push S1
+L keyswitch:KAILH_1350 S1
 U 1 1 5BDE726F
 P 3300 1300
 F 0 "S1" H 3300 1513 50  0000 C CNN
@@ -1837,10 +1837,8 @@ $EndComp
 Connection ~ 3700 1300
 Wire Wire Line
 	3700 1300 3700 1800
-Wire Wire Line
-	3100 1300 3100 1450
 $Comp
-L Switch:SW_Push S4
+L keyswitch:KAILH_1350 S4
 U 1 1 5BECEE70
 P 12950 1300
 F 0 "S4" H 12950 1513 50  0000 C CNN
@@ -1864,7 +1862,7 @@ F 3 "~" V 13250 1300 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L Switch:SW_Push S2
+L keyswitch:KAILH_1350 S2
 U 1 1 5BF33A5B
 P 4150 1300
 F 0 "S2" H 4150 1513 50  0000 C CNN
@@ -1888,11 +1886,8 @@ $EndComp
 Connection ~ 4550 1300
 Wire Wire Line
 	4550 1300 4550 1800
-Wire Wire Line
-	3950 1300 3950 1450
-Connection ~ 3950 1450
 $Comp
-L Switch:SW_Push S3
+L keyswitch:KAILH_1350 S3
 U 1 1 5BFBB971
 P 12150 1300
 F 0 "S3" H 12150 1513 50  0000 C CNN
@@ -2525,18 +2520,15 @@ UART4_RX
 Text Label 1750 4550 0    50   ~ 0
 NRST
 Wire Wire Line
-	3100 1450 3950 1450
-Connection ~ 3100 1450
+	11950 1450 12050 1450
 Wire Wire Line
-	11950 1450 12750 1450
+	3100 1950 3200 1950
 Wire Wire Line
-	3100 1950 3950 1950
+	3950 1950 4050 1950
 Wire Wire Line
-	3950 1950 4750 1950
+	4750 1950 4850 1950
 Wire Wire Line
-	4750 1950 5550 1950
-Wire Wire Line
-	5550 1950 6350 1950
+	5550 1950 5650 1950
 Wire Wire Line
 	6350 1950 7150 1950
 Wire Wire Line
@@ -2600,41 +2592,41 @@ Wire Wire Line
 Wire Wire Line
 	6350 3950 7150 3950
 Wire Wire Line
-	5550 2450 6350 2450
+	5550 2450 5650 2450
 Wire Wire Line
-	5550 2950 6350 2950
+	5550 2950 5650 2950
 Wire Wire Line
-	5550 3450 6350 3450
+	5550 3450 5650 3450
 Wire Wire Line
-	5550 3950 6350 3950
+	5550 3950 5650 3950
 Wire Wire Line
-	4750 2450 5550 2450
+	4750 2450 4850 2450
 Wire Wire Line
-	4750 2950 5550 2950
+	4750 2950 4850 2950
 Wire Wire Line
-	4750 3450 5550 3450
+	4750 3450 4850 3450
 Wire Wire Line
-	4750 3950 5550 3950
+	4750 3950 4850 3950
 Wire Wire Line
-	3950 2450 4750 2450
+	3950 2450 4050 2450
 Wire Wire Line
-	3950 2950 4750 2950
+	3950 2950 4050 2950
 Wire Wire Line
-	3950 3450 4750 3450
+	3950 3450 4050 3450
 Wire Wire Line
-	3950 3950 4750 3950
+	3950 3950 4050 3950
 Wire Wire Line
-	3100 2450 3950 2450
+	3100 2450 3200 2450
 Wire Wire Line
-	3100 2950 3950 2950
+	3100 2950 3200 2950
 Wire Wire Line
-	3100 3450 3950 3450
+	3100 3450 3200 3450
 Wire Wire Line
-	3100 3950 3950 3950
+	3100 3950 3200 3950
 Wire Wire Line
 	9350 3300 9350 3800
 $Comp
-L Switch:SW_Push S24
+L keyswitch:KAILH_1350 S24
 U 1 1 5CEAFA5E
 P 12950 2300
 F 0 "S24" H 12950 2513 50  0000 C CNN
@@ -2668,7 +2660,7 @@ Wire Wire Line
 Text Label 13350 1100 0    50   ~ 0
 COL12
 $Comp
-L Switch:SW_Push S23
+L keyswitch:KAILH_1350 S23
 U 1 1 5CF94F64
 P 12950 1800
 F 0 "S23" H 12950 2013 50  0000 C CNN
@@ -2707,11 +2699,9 @@ Wire Wire Line
 	12550 1300 12550 1800
 Wire Wire Line
 	11750 1100 11750 1300
-Wire Wire Line
-	3950 1450 4750 1450
 Connection ~ 11950 1450
 $Comp
-L Switch:SW_Push S25
+L keyswitch:KAILH_1350 S25
 U 1 1 5D09D15F
 P 12950 2800
 F 0 "S25" H 12950 3013 50  0000 C CNN
@@ -2748,7 +2738,7 @@ Wire Wire Line
 Wire Wire Line
 	7150 3950 7950 3950
 $Comp
-L Switch:SW_Push U2
+L keyswitch:KAILH_1350 U2
 U 1 1 5BC752AF
 P 8150 3800
 F 0 "U2" H 8150 4013 50  0000 C CNN
@@ -2775,7 +2765,7 @@ Connection ~ 7950 3950
 Wire Wire Line
 	7950 3950 8750 3950
 $Comp
-L Switch:SW_Push U7
+L keyswitch:KAILH_1350 U7
 U 1 1 5BCA3484
 P 9750 3800
 F 0 "U7" H 9750 4013 50  0000 C CNN
@@ -2805,7 +2795,7 @@ Wire Wire Line
 	10150 3800 10150 3300
 Connection ~ 10150 3300
 $Comp
-L Switch:SW_Push S27
+L keyswitch:KAILH_1350 S27
 U 1 1 5BDAD17D
 P 13750 1300
 F 0 "S27" H 13750 1513 50  0000 C CNN
@@ -2829,9 +2819,9 @@ F 3 "~" V 14050 1300 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 Wire Wire Line
-	12750 1450 13550 1450
+	12750 1450 12850 1450
 $Comp
-L Switch:SW_Push S29
+L keyswitch:KAILH_1350 S29
 U 1 1 5BDAD193
 P 13750 2300
 F 0 "S29" H 13750 2513 50  0000 C CNN
@@ -2864,7 +2854,7 @@ Wire Wire Line
 Text Label 14150 1100 0    50   ~ 0
 COL13
 $Comp
-L Switch:SW_Push S28
+L keyswitch:KAILH_1350 S28
 U 1 1 5BDAD1AD
 P 13750 1800
 F 0 "S28" H 13750 2013 50  0000 C CNN
@@ -2896,7 +2886,7 @@ Connection ~ 14150 1300
 Wire Wire Line
 	14150 1300 14150 1800
 $Comp
-L Switch:SW_Push S30
+L keyswitch:KAILH_1350 S30
 U 1 1 5BDAD1C7
 P 13750 2800
 F 0 "S30" H 13750 3013 50  0000 C CNN
@@ -2929,7 +2919,7 @@ Connection ~ 12750 1950
 Connection ~ 12750 2450
 Connection ~ 12750 2950
 $Comp
-L Switch:SW_Push S26
+L keyswitch:KAILH_1350 S26
 U 1 1 5BDF8285
 P 12950 3300
 F 0 "S26" H 12950 3513 50  0000 C CNN
@@ -2959,7 +2949,7 @@ Connection ~ 13350 3300
 Wire Wire Line
 	13350 3300 13350 3800
 $Comp
-L Switch:SW_Push S31
+L keyswitch:KAILH_1350 S31
 U 1 1 5BE2D269
 P 13750 3300
 F 0 "S31" H 13750 3513 50  0000 C CNN
@@ -2989,7 +2979,7 @@ Wire Wire Line
 	13550 3450 13550 3300
 Connection ~ 12750 3450
 $Comp
-L Switch:SW_Push S32
+L keyswitch:KAILH_1350 S32
 U 1 1 5BE70989
 P 12950 3800
 F 0 "S32" H 12950 4013 50  0000 C CNN
@@ -3013,7 +3003,7 @@ F 3 "~" V 13250 3800 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L Switch:SW_Push S33
+L keyswitch:KAILH_1350 S33
 U 1 1 5BE709A0
 P 13750 3800
 F 0 "S33" H 13750 4013 50  0000 C CNN
@@ -3043,7 +3033,7 @@ Wire Wire Line
 Wire Wire Line
 	13550 3950 13550 3800
 $Comp
-L Switch:SW_Push S34
+L keyswitch:KAILH_1350 S34
 U 1 1 5C03ED14
 P 4950 1300
 F 0 "S34" H 4950 1513 50  0000 C CNN
@@ -3068,7 +3058,7 @@ Connection ~ 5350 1300
 Wire Wire Line
 	5350 1300 5350 1800
 $Comp
-L Switch:SW_Push S35
+L keyswitch:KAILH_1350 S35
 U 1 1 5C06174C
 P 5750 1300
 F 0 "S35" H 5750 1513 50  0000 C CNN
@@ -3093,7 +3083,7 @@ Connection ~ 6150 1300
 Wire Wire Line
 	6150 1300 6150 1800
 $Comp
-L Switch:SW_Push S36
+L keyswitch:KAILH_1350 S36
 U 1 1 5C08405D
 P 6550 1300
 F 0 "S36" H 6550 1513 50  0000 C CNN
@@ -3118,7 +3108,7 @@ Connection ~ 6950 1300
 Wire Wire Line
 	6950 1300 6950 1800
 $Comp
-L Switch:SW_Push S37
+L keyswitch:KAILH_1350 S37
 U 1 1 5C0C6F7E
 P 7350 1300
 F 0 "S37" H 7350 1513 50  0000 C CNN
@@ -3143,7 +3133,7 @@ Connection ~ 7750 1300
 Wire Wire Line
 	7750 1300 7750 1800
 $Comp
-L Switch:SW_Push S38
+L keyswitch:KAILH_1350 S38
 U 1 1 5C0EC85A
 P 8150 1300
 F 0 "S38" H 8150 1513 50  0000 C CNN
@@ -3168,7 +3158,7 @@ Connection ~ 8550 1300
 Wire Wire Line
 	8550 1300 8550 1800
 $Comp
-L Switch:SW_Push S39
+L keyswitch:KAILH_1350 S39
 U 1 1 5C10DB77
 P 8950 1300
 F 0 "S39" H 8950 1513 50  0000 C CNN
@@ -3193,7 +3183,7 @@ Connection ~ 9350 1300
 Wire Wire Line
 	9350 1300 9350 1800
 $Comp
-L Switch:SW_Push S40
+L keyswitch:KAILH_1350 S40
 U 1 1 5C131370
 P 9750 1300
 F 0 "S40" H 9750 1513 50  0000 C CNN
@@ -3218,7 +3208,7 @@ Connection ~ 10150 1300
 Wire Wire Line
 	10150 1300 10150 1800
 $Comp
-L Switch:SW_Push S41
+L keyswitch:KAILH_1350 S41
 U 1 1 5C150DB1
 P 10550 1300
 F 0 "S41" H 10550 1513 50  0000 C CNN
@@ -3243,7 +3233,7 @@ Connection ~ 10950 1300
 Wire Wire Line
 	10950 1300 10950 1800
 $Comp
-L Switch:SW_Push S42
+L keyswitch:KAILH_1350 S42
 U 1 1 5C173120
 P 11350 1300
 F 0 "S42" H 11350 1513 50  0000 C CNN
@@ -3271,49 +3261,48 @@ Wire Wire Line
 	11150 1300 11150 1450
 Connection ~ 11150 1450
 Wire Wire Line
-	11150 1450 11950 1450
+	11150 1450 11250 1450
 Wire Wire Line
 	10350 1450 10350 1300
 Connection ~ 10350 1450
 Wire Wire Line
-	10350 1450 11150 1450
+	10350 1450 10450 1450
 Wire Wire Line
 	9550 1450 9550 1300
 Connection ~ 9550 1450
 Wire Wire Line
-	9550 1450 10350 1450
+	9550 1450 9650 1450
 Wire Wire Line
 	8750 1300 8750 1450
 Connection ~ 8750 1450
 Wire Wire Line
-	8750 1450 9550 1450
+	8750 1450 8850 1450
 Wire Wire Line
 	7950 1300 7950 1450
 Connection ~ 7950 1450
 Wire Wire Line
-	7950 1450 8750 1450
+	7950 1450 8050 1450
 Wire Wire Line
 	7150 1300 7150 1450
 Connection ~ 7150 1450
 Wire Wire Line
-	7150 1450 7950 1450
+	7150 1450 7250 1450
 Wire Wire Line
 	6350 1300 6350 1450
 Connection ~ 6350 1450
 Wire Wire Line
-	6350 1450 7150 1450
+	6350 1450 6450 1450
 Wire Wire Line
 	5550 1300 5550 1450
 Connection ~ 5550 1450
 Wire Wire Line
-	5550 1450 6350 1450
+	5550 1450 5650 1450
 Wire Wire Line
 	4750 1300 4750 1450
-Connection ~ 4750 1450
 Wire Wire Line
-	4750 1450 5550 1450
+	4750 1450 4850 1450
 $Comp
-L Switch:SW_Push S43
+L keyswitch:KAILH_1350 S43
 U 1 1 5BCDDFB5
 P 2450 1300
 F 0 "S43" H 2450 1513 50  0000 C CNN
@@ -3357,7 +3346,7 @@ F 3 "~" V 2750 1800 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L Switch:SW_Push S44
+L keyswitch:KAILH_1350 S44
 U 1 1 5BE5398B
 P 2450 1800
 F 0 "S44" H 2450 2013 50  0000 C CNN
@@ -3370,11 +3359,6 @@ $EndComp
 Connection ~ 2850 1800
 Wire Wire Line
 	2850 1800 2850 2300
-Wire Wire Line
-	2250 1300 2250 1450
-Connection ~ 2250 1450
-Wire Wire Line
-	2250 1450 3100 1450
 $Comp
 L Device:D_Small_ALT D73
 U 1 1 5BEC20F7
@@ -3387,7 +3371,7 @@ F 3 "~" V 2750 2300 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L Switch:SW_Push S45
+L keyswitch:KAILH_1350 S45
 U 1 1 5BEC2101
 P 2450 2300
 F 0 "S45" H 2450 2513 50  0000 C CNN
@@ -3411,7 +3395,7 @@ Wire Wire Line
 	2250 1800 2250 1950
 Connection ~ 2250 1950
 Wire Wire Line
-	2250 1950 3100 1950
+	2250 1950 2350 1950
 $Comp
 L Device:D_Small_ALT D74
 U 1 1 5BFAB79C
@@ -3424,7 +3408,7 @@ F 3 "~" V 2750 2800 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L Switch:SW_Push U3
+L keyswitch:KAILH_1350 U3
 U 1 1 5BFAB7A6
 P 2450 2800
 F 0 "U3" H 2450 3013 50  0000 C CNN
@@ -3454,7 +3438,7 @@ F 3 "~" V 2750 3300 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L Switch:SW_Push U8
+L keyswitch:KAILH_1350 U8
 U 1 1 5BFD67B2
 P 2450 3300
 F 0 "U8" H 2450 3513 50  0000 C CNN
@@ -3484,7 +3468,7 @@ F 3 "~" V 2750 3800 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L Switch:SW_Push U12
+L keyswitch:KAILH_1350 U12
 U 1 1 5C002C29
 P 2450 3800
 F 0 "U12" H 2450 4013 50  0000 C CNN
@@ -3499,4 +3483,380 @@ Wire Wire Line
 Connection ~ 2250 3950
 Wire Wire Line
 	2250 3950 2000 3950
+Wire Wire Line
+	2250 1300 2250 1450
+Wire Wire Line
+	3950 1300 3950 1450
+Connection ~ 4750 1450
+Wire Wire Line
+	3950 1450 4050 1450
+Wire Wire Line
+	3100 1300 3100 1450
+Connection ~ 3950 1450
+Wire Wire Line
+	3100 1450 3200 1450
+Wire Wire Line
+	2250 1450 2350 1450
+Connection ~ 2250 1450
+Connection ~ 3100 1450
+Connection ~ 2350 1450
+Wire Wire Line
+	2350 1450 2450 1450
+Connection ~ 2450 1450
+Wire Wire Line
+	2450 1450 2550 1450
+Connection ~ 2550 1450
+Wire Wire Line
+	2550 1450 3100 1450
+Connection ~ 3200 1450
+Wire Wire Line
+	3200 1450 3300 1450
+Connection ~ 3300 1450
+Wire Wire Line
+	3300 1450 3400 1450
+Connection ~ 3400 1450
+Wire Wire Line
+	3400 1450 3950 1450
+Wire Wire Line
+	4250 1450 4750 1450
+Wire Wire Line
+	4050 1450 4150 1450
+Connection ~ 4050 1450
+Wire Wire Line
+	4150 1450 4250 1450
+Connection ~ 4150 1450
+Connection ~ 4250 1450
+Connection ~ 4850 1450
+Wire Wire Line
+	4850 1450 4950 1450
+Connection ~ 4950 1450
+Wire Wire Line
+	4950 1450 5050 1450
+Connection ~ 5050 1450
+Wire Wire Line
+	5050 1450 5550 1450
+Connection ~ 5650 1450
+Wire Wire Line
+	5650 1450 5750 1450
+Connection ~ 5750 1450
+Wire Wire Line
+	5750 1450 5850 1450
+Connection ~ 5850 1450
+Wire Wire Line
+	5850 1450 6350 1450
+Connection ~ 6450 1450
+Wire Wire Line
+	6450 1450 6550 1450
+Connection ~ 6550 1450
+Wire Wire Line
+	6550 1450 6650 1450
+Connection ~ 6650 1450
+Wire Wire Line
+	6650 1450 7150 1450
+Connection ~ 7250 1450
+Wire Wire Line
+	7250 1450 7350 1450
+Connection ~ 7350 1450
+Wire Wire Line
+	7350 1450 7450 1450
+Connection ~ 7450 1450
+Wire Wire Line
+	7450 1450 7950 1450
+Connection ~ 8050 1450
+Wire Wire Line
+	8050 1450 8150 1450
+Connection ~ 8150 1450
+Wire Wire Line
+	8150 1450 8250 1450
+Connection ~ 8250 1450
+Wire Wire Line
+	8250 1450 8750 1450
+Connection ~ 8850 1450
+Wire Wire Line
+	8850 1450 8950 1450
+Connection ~ 8950 1450
+Wire Wire Line
+	8950 1450 9050 1450
+Connection ~ 9050 1450
+Wire Wire Line
+	9050 1450 9550 1450
+Connection ~ 9650 1450
+Wire Wire Line
+	9650 1450 9750 1450
+Connection ~ 9750 1450
+Wire Wire Line
+	9750 1450 9850 1450
+Connection ~ 9850 1450
+Wire Wire Line
+	9850 1450 10350 1450
+Connection ~ 10450 1450
+Wire Wire Line
+	10450 1450 10550 1450
+Connection ~ 10550 1450
+Wire Wire Line
+	10550 1450 10650 1450
+Connection ~ 10650 1450
+Wire Wire Line
+	10650 1450 11150 1450
+Connection ~ 11250 1450
+Wire Wire Line
+	11250 1450 11350 1450
+Connection ~ 11350 1450
+Wire Wire Line
+	11350 1450 11450 1450
+Connection ~ 11450 1450
+Wire Wire Line
+	11450 1450 11950 1450
+Connection ~ 12050 1450
+Wire Wire Line
+	12050 1450 12150 1450
+Connection ~ 12150 1450
+Wire Wire Line
+	12150 1450 12250 1450
+Connection ~ 12250 1450
+Wire Wire Line
+	12250 1450 12750 1450
+Connection ~ 12850 1450
+Wire Wire Line
+	12850 1450 12950 1450
+Connection ~ 12950 1450
+Wire Wire Line
+	12950 1450 13050 1450
+Connection ~ 13050 1450
+Wire Wire Line
+	13050 1450 13550 1450
+Wire Wire Line
+	13550 1450 13650 1450
+Connection ~ 13550 1450
+Wire Wire Line
+	13650 1450 13750 1450
+Connection ~ 13650 1450
+Wire Wire Line
+	13750 1450 13850 1450
+Connection ~ 13750 1450
+Connection ~ 2350 1950
+Wire Wire Line
+	2350 1950 2450 1950
+Connection ~ 2450 1950
+Wire Wire Line
+	2450 1950 2550 1950
+Connection ~ 2550 1950
+Wire Wire Line
+	2550 1950 3100 1950
+Connection ~ 3200 1950
+Wire Wire Line
+	3200 1950 3300 1950
+Connection ~ 3300 1950
+Wire Wire Line
+	3300 1950 3400 1950
+Connection ~ 3400 1950
+Wire Wire Line
+	3400 1950 3950 1950
+Connection ~ 3400 2450
+Wire Wire Line
+	3400 2450 3950 2450
+Connection ~ 3300 2450
+Wire Wire Line
+	3300 2450 3400 2450
+Connection ~ 3200 2450
+Wire Wire Line
+	3200 2450 3300 2450
+Connection ~ 2550 2450
+Wire Wire Line
+	2550 2450 2450 2450
+Connection ~ 2450 2450
+Wire Wire Line
+	2450 2450 2350 2450
+Connection ~ 2350 2450
+Wire Wire Line
+	2350 2450 2250 2450
+Connection ~ 2350 2950
+Wire Wire Line
+	2350 2950 2250 2950
+Connection ~ 2450 2950
+Wire Wire Line
+	2450 2950 2350 2950
+Connection ~ 2550 2950
+Wire Wire Line
+	2550 2950 2450 2950
+Connection ~ 3200 2950
+Wire Wire Line
+	3200 2950 3300 2950
+Connection ~ 3300 2950
+Wire Wire Line
+	3300 2950 3400 2950
+Connection ~ 3400 2950
+Wire Wire Line
+	3400 2950 3950 2950
+Connection ~ 3400 3450
+Wire Wire Line
+	3400 3450 3950 3450
+Connection ~ 3300 3450
+Wire Wire Line
+	3300 3450 3400 3450
+Connection ~ 3200 3450
+Wire Wire Line
+	3200 3450 3300 3450
+Connection ~ 3200 3950
+Wire Wire Line
+	3200 3950 3300 3950
+Connection ~ 3300 3950
+Wire Wire Line
+	3300 3950 3400 3950
+Connection ~ 3400 3950
+Wire Wire Line
+	3400 3950 3950 3950
+Connection ~ 2550 3450
+Wire Wire Line
+	2550 3450 2450 3450
+Connection ~ 2450 3450
+Wire Wire Line
+	2450 3450 2350 3450
+Connection ~ 2350 3450
+Wire Wire Line
+	2350 3450 2250 3450
+Connection ~ 2350 3950
+Wire Wire Line
+	2350 3950 2250 3950
+Connection ~ 2450 3950
+Wire Wire Line
+	2450 3950 2350 3950
+Connection ~ 2550 3950
+Wire Wire Line
+	2550 3950 2450 3950
+Connection ~ 4050 1950
+Wire Wire Line
+	4050 1950 4150 1950
+Connection ~ 4150 1950
+Wire Wire Line
+	4150 1950 4250 1950
+Connection ~ 4250 1950
+Wire Wire Line
+	4250 1950 4750 1950
+Connection ~ 4050 2450
+Wire Wire Line
+	4050 2450 4150 2450
+Connection ~ 4150 2450
+Wire Wire Line
+	4150 2450 4250 2450
+Connection ~ 4250 2450
+Wire Wire Line
+	4250 2450 4750 2450
+Connection ~ 4250 2950
+Wire Wire Line
+	4250 2950 4750 2950
+Connection ~ 4150 2950
+Wire Wire Line
+	4150 2950 4250 2950
+Connection ~ 4050 2950
+Wire Wire Line
+	4050 2950 4150 2950
+Connection ~ 4050 3450
+Wire Wire Line
+	4050 3450 4150 3450
+Connection ~ 4150 3450
+Wire Wire Line
+	4150 3450 4250 3450
+Connection ~ 4250 3450
+Wire Wire Line
+	4250 3450 4750 3450
+Connection ~ 4250 3950
+Wire Wire Line
+	4250 3950 4750 3950
+Connection ~ 4150 3950
+Wire Wire Line
+	4150 3950 4250 3950
+Connection ~ 4050 3950
+Wire Wire Line
+	4050 3950 4150 3950
+Connection ~ 4850 3950
+Wire Wire Line
+	4850 3950 4950 3950
+Connection ~ 4950 3950
+Wire Wire Line
+	4950 3950 5050 3950
+Connection ~ 5050 3950
+Wire Wire Line
+	5050 3950 5550 3950
+Connection ~ 5050 3450
+Wire Wire Line
+	5050 3450 5550 3450
+Connection ~ 4950 3450
+Wire Wire Line
+	4950 3450 5050 3450
+Connection ~ 4850 3450
+Wire Wire Line
+	4850 3450 4950 3450
+Connection ~ 4850 2950
+Wire Wire Line
+	4850 2950 4950 2950
+Connection ~ 4950 2950
+Wire Wire Line
+	4950 2950 5050 2950
+Connection ~ 5050 2950
+Wire Wire Line
+	5050 2950 5550 2950
+Connection ~ 5050 2450
+Wire Wire Line
+	5050 2450 5550 2450
+Connection ~ 4950 2450
+Wire Wire Line
+	4950 2450 5050 2450
+Connection ~ 4850 2450
+Wire Wire Line
+	4850 2450 4950 2450
+Connection ~ 4850 1950
+Wire Wire Line
+	4850 1950 4950 1950
+Connection ~ 4950 1950
+Wire Wire Line
+	4950 1950 5050 1950
+Connection ~ 5050 1950
+Wire Wire Line
+	5050 1950 5550 1950
+Connection ~ 5650 1950
+Wire Wire Line
+	5650 1950 5750 1950
+Connection ~ 5750 1950
+Wire Wire Line
+	5750 1950 5850 1950
+Connection ~ 5850 1950
+Wire Wire Line
+	5850 1950 6350 1950
+Connection ~ 5850 2450
+Wire Wire Line
+	5850 2450 6350 2450
+Connection ~ 5750 2450
+Wire Wire Line
+	5750 2450 5850 2450
+Connection ~ 5650 2450
+Wire Wire Line
+	5650 2450 5750 2450
+Connection ~ 5650 2950
+Wire Wire Line
+	5650 2950 5750 2950
+Connection ~ 5750 2950
+Wire Wire Line
+	5750 2950 5850 2950
+Connection ~ 5850 2950
+Wire Wire Line
+	5850 2950 6350 2950
+Connection ~ 5850 3450
+Wire Wire Line
+	5850 3450 6350 3450
+Connection ~ 5750 3450
+Wire Wire Line
+	5750 3450 5850 3450
+Connection ~ 5650 3450
+Wire Wire Line
+	5650 3450 5750 3450
+Connection ~ 5650 3950
+Wire Wire Line
+	5650 3950 5750 3950
+Connection ~ 5750 3950
+Wire Wire Line
+	5750 3950 5850 3950
+Connection ~ 5850 3950
+Wire Wire Line
+	5850 3950 6350 3950
 $EndSCHEMATC
