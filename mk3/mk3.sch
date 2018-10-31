@@ -1954,10 +1954,10 @@ Text Label 5950 4900 0    50   ~ 0
 ROW1
 Wire Wire Line
 	5950 4900 6250 4900
-Text Label 5950 4800 0    50   ~ 0
+Text Label 1700 6900 0    50   ~ 0
 ROW0
 Wire Wire Line
-	5950 4800 6250 4800
+	1700 6900 2000 6900
 Text Label 5950 6400 0    50   ~ 0
 COL7
 Wire Wire Line
@@ -1990,10 +1990,10 @@ Text Label 5950 5700 0    50   ~ 0
 COL0
 Wire Wire Line
 	5950 5700 6250 5700
-Text Label 5950 6800 0    50   ~ 0
+Text Label 1700 6800 0    50   ~ 0
 COL11
 Wire Wire Line
-	5950 6800 6250 6800
+	1700 6800 2000 6800
 Text Label 5950 6700 0    50   ~ 0
 COL10
 Wire Wire Line
@@ -4291,4 +4291,6 @@ Connection ~ 13550 3950
 Connection ~ 13650 3950
 Wire Wire Line
 	13650 3950 13750 3950
+Text Notes 8250 7350 0    118  ~ 24
+TODO: 3v3 LDO
 $EndSCHEMATC
